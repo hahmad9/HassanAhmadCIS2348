@@ -1,3 +1,6 @@
+# Hassan Ahmad
+# ID: 1865003
+
 class FoodItem:
 
     def __init__(self, name="None", fat=0.0, carbs=0.0, protein=0.0):
