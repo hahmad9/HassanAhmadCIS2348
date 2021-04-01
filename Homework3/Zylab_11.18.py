@@ -1,3 +1,6 @@
+# Hassan Ahmad
+# ID: 1865003
+
 numbers = input().split()
 result = []
 
