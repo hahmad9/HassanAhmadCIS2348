@@ -1,3 +1,6 @@
+# Hassan Ahmad
+# ID: 1865003
+
 class ItemToPurchase:
     def __init__(self):
         self.item_name = "none"
